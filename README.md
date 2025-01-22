@@ -15,7 +15,7 @@ Architecture is based partly on the [MicroBOONE 2020 paper](https://arxiv.org/ab
 
   <img src="https://github.com/olivia-jackson-lambert/high-energy-particle-classifier/blob/main/Figures/pion_examples.png" alt="examples" height=800/>
   
-  <img src="https://github.com/olivia-jackson-lambert/high-energy-particle-classifier/blob/main/Figures/proton_examples.png" alt="examples"/>
+  <img src="https://github.com/olivia-jackson-lambert/high-energy-particle-classifier/blob/main/Figures/proton_examples.png" alt="examples" height=800/>
 </p>
 </details> 
 
