@@ -53,9 +53,6 @@ This architecture balances expressiveness with efficiency, providing enough capa
 
 ```
 high-energy-particle-classifier/
-├── data/
-│   ├── particle_images.npz          # Detector image data
-│   └── particle_truth_array.npy     # Ground truth labels and features
 ├── notebooks/
 │   ├── particle_eda.ipynb            # Exploratory data analysis
 │   └── particle_classifier.ipynb     # Main training and evaluation notebook
@@ -71,6 +68,8 @@ high-energy-particle-classifier/
 ```
 
 ## Getting Started
+
+Please email me if you would like a copy of my data. The datasets are too large to store on GitHub.
 
 ### Prerequisites
 
